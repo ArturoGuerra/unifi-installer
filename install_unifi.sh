@@ -1,4 +1,4 @@
-#!/usr/sbin/env sh
+#!/bin/sh
 dpkg=$1
 unifi_file=/tmp/unifi_sysvinit_all.deb
 
